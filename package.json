@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "homepage": "https://github.com/imsrija/ticket-support-web",
+  "homepage": "https://ticket-support-web-kommi-srijas-projects.vercel.app/",
   "private": true,
   "proxy": "https://ticket-support-service-1.onrender.com",
   "dependencies": {
