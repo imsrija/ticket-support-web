@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "homepage": "https://srijakommi.github.io/supportdesk",
+  "homepage": "https://github.com/imsrija/ticket-support-web",
   "private": true,
   "proxy": "https://ticket-support-service-1.onrender.com",
   "dependencies": {
